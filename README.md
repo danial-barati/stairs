@@ -2,7 +2,7 @@
 
 ** transforming the textes on stairs 📱.**
 
-![view](https://github.com/danial-barati/showcase-app/assets/104683176/bb3c6778-14e7-4bfa-a8b1-b22499361156)
+![view](https://github.com/danial-barati/stairs/assets/104683176/6ade72d1-1bd3-4369-b93b-eb09210afb84)
 
 - 🔗 [demo](https://danial-barati.github.io/showcase-app/)
 
